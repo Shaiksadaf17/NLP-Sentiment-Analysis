@@ -34,8 +34,8 @@ This repository contains **two versions** of a sentiment analysis project on twe
    - **Classifier & Evaluation:** Same SVM, cross-validation, and error analysis with improved performance.
 
 3. **Dataset**
-   - `sentiment-dataset.tsv` – tab-separated file containing tweet texts and labels.  
-   *(Add your dataset here or link to the source if publicly available.)*
+   - `sentiment-dataset.tsv`  
+   
 
 ---
 
