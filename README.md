@@ -14,8 +14,8 @@ This repository contains **two versions** of a sentiment analysis project on twe
 
 ## Repository Structure
 
-1. **Basic Version (`nlp_sentiment_q1_q3.py`)**
-   - Implements Questions 1–3 from the assignment.
+1. **Basic Version (`nlp_sentiment.py`)**
+   
    - **Preprocessing:** Tokenization using `split()`.
    - **Features:** Unigram presence only.
    - **Classifier:** LinearSVC via NLTK's `SklearnClassifier`.
